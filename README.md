@@ -1,9 +1,12 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-<a href="https://github.com/racciatti">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Enzo+Racciatti;Data+Science+%7C+Quantitative+Modeling+%7C+AI+Engineering;Turning+Mathematical+Rigor+into+Production+Systems" alt="Typing SVG" />
-</a>
+
+<p align="center">
+  <a href="https://github.com/racciatti">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey,+I'm+Enzo+Racciatti;Data+Science+%7C+Quantitative+Modeling+%7C+AI+Engineering;Mathematical+Rigor+%E2%86%92+Production+AI;FAPESP+%26+CNPq+Researcher+%7C+Ita%C3%BA+Unibanco" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <strong>Computer Scientist (UNESP)</strong> &bull; <strong>Data Analyst @ Itaú Unibanco</strong> &bull; <strong>São Paulo, Brazil</strong>
@@ -96,12 +99,10 @@ I operate at the intersection of **Data Science, Quantitative Modeling, and AI E
 ---
 
 ### GitHub Activity
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=racciatti&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="Enzo's GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racciatti&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
-</div>
-
+<p align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=racciatti&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&card_width=495&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="Enzo Racciatti GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racciatti&layout=compact&theme=transparent&hide_border=true&card_width=350&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
+</p>
 <div align="center">
   <br />
   <sub>Always open to connecting on quantitative research, applied AI, and high-impact engineering challenges.</sub>
