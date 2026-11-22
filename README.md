@@ -97,13 +97,4 @@ I operate at the intersection of **Data Science, Quantitative Modeling, and AI E
 </table>
 
 ---
-
-### GitHub Activity
-<p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=racciatti&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&card_width=495&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="Enzo Racciatti GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racciatti&layout=compact&theme=transparent&hide_border=true&card_width=350&title_color=58A6FF&text_color=8B949E" alt="Top Languages" />
-</p>
-<div align="center">
-  <br />
   <sub>Always open to connecting on quantitative research, applied AI, and high-impact engineering challenges.</sub>
-</div>
